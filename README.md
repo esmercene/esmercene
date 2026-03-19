@@ -10,10 +10,18 @@
 
 ## About Me
 
-- I build, automate, and weaponize security workflows.  
-- Focused on offensive security and AI-driven automation.  
-- Designing autonomous systems for reconnaissance and exploitation.  
-- Constantly evolving through real-world labs and research.  
+**Offensive Security**
+- Penetration tester focused on manual exploitation and adversarial tactics
+- Conducting internal and external infrastructure assessments
+- Web application security testing 
+
+
+**AI Automation Specialist**
+- Designing intelligent automation for business process optimization
+- Implementing AI solutions for data processing and workflow efficiency
+- Developing AI-powered chatbots for customer service and internal support
+- Creating intelligent reporting systems that transform raw data into insights
+- Streamlining repetitive business tasks with custom automation solutions
 
 ---
 
