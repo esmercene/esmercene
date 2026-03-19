@@ -96,8 +96,11 @@
 ---
 
 ### 🤖 Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,github,n8n" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" />
 </p>
 
 <p>
@@ -111,16 +114,16 @@
 ## Link
 
 <p align="left">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/esmercene/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 <p align="left">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/esmercene/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/esmercene" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
   </a>
 </p>
