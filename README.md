@@ -17,44 +17,64 @@
 
 ---
 
-## Projects 
 
-## 📂 My Projects
+## 📂 Projects
 
-### [![OpenClaw Kali](https://img.shields.io/badge/OpenClaw-Kali_Linux-red?style=for-the-badge)](https://github.com/esmerce/OpenClaw-Kali-Linux-Autonomous-Offensive-Security)
-Autonomous offensive security framework built on Kali Linux for automated penetration testing.  
-[![Repo](https://img.shields.io/badge/View_Repo-2ea44f?style=flat-square)](https://github.com/esmerce/OpenClaw-Kali-Linux-Autonomous-Offensive-Security)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square)
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; margin-bottom: 20px; background-color: #f6f8fa;">
+  
+  ### [![OpenClaw Kali](https://img.shields.io/badge/🔴_OpenClaw-Kali_Linux_Autonomous_Framework-CC0000?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=2A2A2A)](https://github.com/esmercene/OpenClaw-Kali-Linux-Autonomous-Offensive-Security)
+  
+  **Autonomous offensive security framework built on Kali Linux for automated penetration testing.**
+  
+  [![Repo](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esmercene/OpenClaw-Kali-Linux-Autonomous-Offensive-Security)
+  
+  ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+  ![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square)
+  ![Automation](https://img.shields.io/badge/Automation-4B8BBE?style=flat-square)
+  
+</div>
 
-### [![OpenClaw Secure](https://img.shields.io/badge/OpenClaw-Secure_Setup-blue?style=for-the-badge)](https://github.com/esmerce/OpenClaw_Secure_Setup)
-Hardening scripts and secure configuration templates for Linux systems.  
-[![Repo](https://img.shields.io/badge/View_Repo-2ea44f?style=flat-square)](https://github.com/esmerce/OpenClaw_Secure_Setup)
-![Hardening](https://img.shields.io/badge/Hardening-0052CC?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-007396?style=flat-square)
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; margin-bottom: 20px; background-color: #f6f8fa;">
+  
+  ### [![OpenClaw Secure](https://img.shields.io/badge/🔒_OpenClaw-Secure_Setup_&_Hardening-0052CC?style=for-the-badge&logo=linux&logoColor=white&labelColor=2A2A2A)](https://github.com/esmercene/OpenClaw_Secure_Setup)
+  
+  **Hardening scripts and secure configuration templates for Linux systems.**
+  
+  [![Repo](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esmercene/OpenClaw_Secure_Setup)
+  
+  ![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square)
+  ![Hardening](https://img.shields.io/badge/Hardening-0052CC?style=flat-square)
+  ![DevOps](https://img.shields.io/badge/DevOps-007396?style=flat-square)
+  
+</div>
 
-### [![Azure Sentinel](https://img.shields.io/badge/Azure-Sentinel_Lab-0078D4?style=for-the-badge)](https://github.com/esmerce/Azure-Sentinel-RDP-Lab)
-Cloud security monitoring lab with Azure Sentinel and RDP honeypot configuration.  
-[![Repo](https://img.shields.io/badge/View_Repo-2ea44f?style=flat-square)](https://github.com/esmerce/Azure-Sentinel-RDP-Lab)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-FFB900?style=flat-square)
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; margin-bottom: 20px; background-color: #f6f8fa;">
+  
+  ### [![Azure Sentinel](https://img.shields.io/badge/☁️_Azure-Sentinel_RDP_Honeypot_Lab-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=2A2A2A)](https://github.com/esmercene/Azure-Sentinel-RDP-Lab)
+  
+  **Cloud security monitoring lab with Azure Sentinel and RDP honeypot configuration.**
+  
+  [![Repo](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esmercene/Azure-Sentinel-RDP-Lab)
+  
+  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![Cloud](https://img.shields.io/badge/Cloud_Security-00A3E0?style=flat-square)
+  ![SIEM](https://img.shields.io/badge/SIEM-FFB900?style=flat-square)
+  
+</div>
 
-### [![Metasploitable](https://img.shields.io/badge/Metasploitable2-Pen_Testing_Lab-AA00FF?style=for-the-badge)](https://github.com/esmerce/Metasploitable2-Penetration-Testing-Lab)
-Vulnerability assessment and exploitation practice using Metasploitable2 target.  
-[![Repo](https://img.shields.io/badge/View_Repo-2ea44f?style=flat-square)](https://github.com/esmerce/Metasploitable2-Penetration-Testing-Lab)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square)
-![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square)
----
-
-## Focus
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-Training-111111?style=flat&logo=hackthebox&logoColor=green" />
-  <img src="https://img.shields.io/badge/Offensive%20Security-OSCP%20Path-FF0000?style=flat&logo=protonvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/CPTS-Preparation-blue?style=flat" />
-  <img src="https://img.shields.io/badge/CWES-Preparation-purple?style=flat" />
-</p>
-
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; margin-bottom: 20px; background-color: #f6f8fa;">
+  
+  ### [![Metasploitable](https://img.shields.io/badge/💻_Metasploitable2-Penetration_Testing_Lab-AA00FF?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=2A2A2A)](https://github.com/esmercene/Metasploitable2-Penetration-Testing-Lab)
+  
+  **Vulnerability assessment and exploitation practice using Metasploitable2 target.**
+  
+  [![Repo](https://img.shields.io/badge/View_Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esmercene/Metasploitable2-Penetration-Testing-Lab)
+  
+  ![PenTest](https://img.shields.io/badge/Pen_Testing-AA00FF?style=flat-square)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white)
+  ![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-FF6B6B?style=flat-square)
+  
+</div>
 ---
 
 ## Stack
